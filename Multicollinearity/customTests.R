@@ -56,7 +56,7 @@ getLog <- function(){
 submit_log <- function(){
    
    # Please edit the link below
-   pre_fill_link <- "https://docs.google.com/forms/d/e/1FAIpQLSc29yJzXrfy1qMkbAu2lN90pAYpChtP4Sw2ZYTFeSh_feM0iQ/viewform?usp=pp_url"
+   pre_fill_link <- "https://docs.google.com/forms/d/1tMpK8oPMRvFWbGFv9yyaMSzLmmTWZ7fhJzYJiRRC_iY/prefill"
    
    
    # Do not edit the code below
