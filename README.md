@@ -1,25 +1,23 @@
 # Econometrics
----
-title: "Econometrics"
----
 
-### Author
+
+## Author
 
 - Tedros Gebregegrgs
 
-### Co-Authors
+## Co-Authors
 
-### Description
+## Description
 
 Econometrics using R to interactively practice using swirl.
 
-### Installation
+## Installation
 
 ```r
 swirl::install_course_github(github_username="hahustat",course_name="Econometrics")
 ```
 
-### How to use
+## How to use
 1. type [library(swirl)]()
 2. type [swirl()]()
 3. type your name...
