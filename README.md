@@ -9,7 +9,7 @@
 
 ## Description
 
-Econometrics using R to interactively practice using swirl.
+Econometrics with interactive using R programming learning platform.
 
 ## Installation
 
@@ -22,7 +22,7 @@ swirl::install_course_github(github_username="hahustat",course_name="Econometric
 2. type [swirl()]()
 3. type your name...
 4. then select the lesson you need to learn
-5. 
+
 #### Manual Installation
 
 
